@@ -3,4 +3,5 @@ Disallow: /txmailcost/dl/
 Allow: /
 
 Sitemap: https://basileion.github.io/txmailcost/sitemap.xml
+Sitemap: https://basileion.github.io/postgresledger/sitemap.xml
 Sitemap: https://basileion.github.io/printready/sitemap.xml
