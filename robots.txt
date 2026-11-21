@@ -5,3 +5,6 @@ Allow: /
 Sitemap: https://basileion.github.io/txmailcost/sitemap.xml
 Sitemap: https://basileion.github.io/postgresledger/sitemap.xml
 Sitemap: https://basileion.github.io/printready/sitemap.xml
+Sitemap: https://basileion.github.io/ai-crawlers/sitemap.xml
+Sitemap: https://basileion.github.io/statement2csv/sitemap.xml
+Sitemap: https://basileion.github.io/a11ycheck/sitemap.xml
